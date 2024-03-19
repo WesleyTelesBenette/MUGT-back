@@ -1,0 +1,10 @@
+﻿
+# Dev Files
+mugt-back.sln
+mugt-back.csproj
+mugt-back.csproj.user
+appsettings.Development.json
+bin/
+obj/
+
+
